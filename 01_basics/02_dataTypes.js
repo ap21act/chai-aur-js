@@ -16,6 +16,6 @@ let isLoggedIn =true; // Boolean dataType
 
 // object 
 
-console.log(typeof "hitesh");
+console.log(typeof undefined);
 
 
