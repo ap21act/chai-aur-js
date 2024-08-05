@@ -31,5 +31,7 @@ let myFunction = function(){
 }
 console.log(typeof id);
 
+//  Stack (Primitive), Heap (Non-Primitive)
+
 
 
